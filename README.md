@@ -1,9 +1,5 @@
 
-
----
-
-```markdown
-# 🛒 BlinkIT Grocery Data Dashboard
+## 🛒 BlinkIT Grocery Data Dashboard
 
 ![BlinkIT Dashboard Preview](Output/Blinkit.png)
 
@@ -76,6 +72,4 @@ The goal of this dashboard is to provide a **clear, interactive summary** of sal
 **Aayush Shah 🎓**  
 *Data Analytics Enthusiast | 📊 Power BI | 🐍 Python | 🗄️ SQL*  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/aayush0329/)
-```
 
----
