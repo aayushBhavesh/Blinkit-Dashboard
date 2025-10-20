@@ -1,5 +1,7 @@
 
 
+---
+
 ```markdown
 # 🛒 BlinkIT Grocery Data Dashboard
 
@@ -76,3 +78,4 @@ The goal of this dashboard is to provide a **clear, interactive summary** of sal
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/aayush0329/)
 ```
 
+---
