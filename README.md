@@ -73,3 +73,14 @@ The goal of this dashboard is to provide a **clear, interactive summary** of sal
 *Data Analytics Enthusiast | 📊 Power BI | 🐍 Python | 🗄️ SQL*  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/aayush0329/)
 
+---
+
+## 🪪 License
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## ⭐ Support
+If you found this project helpful or inspiring, please **star 🌟 this repository** and connect with me on LinkedIn!  
+Your feedback helps me improve and build more real-world data analytics projects.
+
